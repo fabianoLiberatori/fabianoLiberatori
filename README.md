@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/fabianoLiberatori/fabianoLiberatori.github.io/blob/main/imagens/Ol%C3%A1%20!.png?raw=true" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.postimg.cc/1RNFJ224/Ola-git-Hub.png" />
 &nbsp;&nbsp;&nbsp;
 
 
