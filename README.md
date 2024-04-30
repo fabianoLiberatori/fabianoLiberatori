@@ -2,7 +2,13 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Em Construção...</p>&nbsp;
+<h3 align="center">Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei aprimorar-me profissionalmente na área de tecnologia através de diversos cursos técnicos.</h4>
+
+<h4 align="center">Trabalhei com automação comercial, atuando na instalação de equipamentos e treinamento de clientes em vários segmentos. Tenho muito a agradecer à empresa Lastech - Informática pelo aprendizado e amadurecimento que adquiri com eles.</h4> 
+
+<h4 align="center">Além disso, fui voluntário para ensinar informática básica para pessoas de diferentes idades, sentindo uma grande satisfação especialmente ao ensinar tecnologia para pessoas mais velhas.</h4> 
+
+<h4 align="center">Atualmente, estou me formando como Desenvolvedor Web Full Stack na Trybe, com conclusão prevista para junho de 2024. Entre minhas principais habilidades estão:</h4>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabianoLiberatori&theme=radical&mode=weekly" />
