@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.postimg.cc/1RNFJ224/Ola-git-Hub.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/GqhjPDH.png" />
 &nbsp;&nbsp;&nbsp;
 
 
