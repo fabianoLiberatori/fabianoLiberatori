@@ -1,14 +1,12 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/GqhjPDH.png" />
 &nbsp;&nbsp;&nbsp;
 
+Sou desenvolvedor Full Stack, estudei na Trybe, participei de aulas focas em Metodologias Ageis e Softskills, desenvolvi mais de 20 projetos passando pelas materias de fundamentos, front-end, back-end, intrudução a ciência da computação e estou estudando JAVA com diversas ferramentas do SPRING.
 
-<h3 align="center">Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei aprimorar-me profissionalmente na área de tecnologia através de diversos cursos técnicos.</h4>
+Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei aprimorar-me profissionalmente na área de tecnologia através de diversos cursos técnicos. Trabalhei com automação comercial, atuando na instalação de equipamentos e treinamento de clientes em vários segmentos. Além disso, fui voluntário para ensinar informática básica para pessoas de diferentes idades.
 
-<h4 align="center">Trabalhei com automação comercial, atuando na instalação de equipamentos e treinamento de clientes em vários segmentos.</h4> 
-
-<h4 align="center">Além disso, fui voluntário para ensinar informática básica para pessoas de diferentes idades.</h4> 
-
-<h4 align="center">Atualmente, estou me formando como Desenvolvedor Web Full Stack na Trybe, onde desenvolvi mais de 20 projetos e participei de aulas focas em Metodologias Ageis e Softskills, com conclusão prevista para junho de 2024. Entre minhas principais habilidades estão:</h4>&nbsp;
+&nbsp;
+&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabianoLiberatori&theme=radical&mode=weekly" />
@@ -17,8 +15,6 @@
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -36,6 +32,7 @@
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![SEQUELIZE](https://img.shields.io/badge/Sequelize-cli2CA5E0?style=for-the-badge&logo=Sequelize-cli&logoColor=write)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -66,7 +63,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
 ![Intellij_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-
 
 
 &nbsp;
