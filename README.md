@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/GqhjPDH.png" />
 &nbsp;&nbsp;&nbsp;
 
-Sou desenvolvedor Full Stack, estudei na Trybe onde participei de aulas focas em Metodologias Ageis e Softskills, desenvolvi mais de 20 projetos passando pelas materias de fundamentos, front-end, back-end, introdução a ciência da computação e estou estudando JAVA com diversas ferramentas do SPRING.
+Sou desenvolvedor Full Stack, estudei na Trybe onde participei de aulas focas em Metodologias Ágeis e Softskills, desenvolvi mais de 20 projetos passando pelas matérias de fundamentos, front-end, back-end, introdução a ciência da computação e estou estudando JAVA com diversas ferramentas do SPRING.
 
 Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei aprimorar-me profissionalmente na área de tecnologia através de diversos cursos técnicos. Trabalhei com automação comercial, atuando na instalação de equipamentos e treinamento de clientes em vários segmentos. Além disso, fui voluntário para ensinar informática básica para pessoas de diferentes idades.
 
