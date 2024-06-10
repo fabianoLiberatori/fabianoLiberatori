@@ -1,20 +1,12 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/GqhjPDH.png" />
 &nbsp;&nbsp;&nbsp;
 
-Sou desenvolvedor Full Stack, estudei na Trybe onde participei de aulas focadas em Metodologias Ágeis e Softskills, desenvolvi mais de 20 projetos passando pelas matérias de fundamentos, front-end, back-end, introdução a ciência da computação e estou estudando JAVA com diversas ferramentas do SPRING.
+Sou Desenvolvedor Full Stack com experiência em mais de 20 projetos na Trybe, focados em Metodologias Ágeis e Soft Skills. Tenho conhecimento aprofundado em lógica de programação, front-end, back-end e introdução à ciência da computação. Atualmente, estou me especializando em Java e ferramentas do Spring, como JPA e Hibernate.
 
-Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei aprimorar-me profissionalmente na área de tecnologia através de diversos cursos técnicos. Trabalhei com automação comercial, atuando na instalação de equipamentos e treinamento de clientes em vários segmentos. Além disso, fui voluntário para ensinar informática básica para pessoas de diferentes idades.
+Minha paixão por games e tecnologia me levou a buscar aprimoramento profissional através de diversos cursos técnicos. Atuei como empreendedor de uma Lan House com Assistência Técnica, desenvolvendo habilidades em atendimento ao cliente, gestão de caixa e negociação com fornecedores. Trabalhei com automação comercial, desenvolvendo treinamentos de software e suporte técnico. Também fui voluntário ensinando informática básica para mais de 1.000 alunos, com uma taxa de aprovação de 99,6%.
 
 &nbsp;
 &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabianoLiberatori&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-teal-alpha-52.vercel.app/api/top-langs/?username=fabianoLiberatori&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
 
 ## My Skills
 
@@ -76,7 +68,16 @@ Nasci no Rio de Janeiro e sempre fui apaixonado por games e tecnologia. Busquei 
 <a href="https://www.linkedin.com/in/fabiano-liberatori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
+&nbsp;
+&nbsp;
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabianoLiberatori&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-teal-alpha-52.vercel.app/api/top-langs/?username=fabianoLiberatori&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
