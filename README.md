@@ -1,9 +1,11 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/GqhjPDH.png" />
 &nbsp;&nbsp;&nbsp;
 
-Sou Desenvolvedor Full Stack com experiência em mais de 20 projetos na Trybe, focados em Metodologias Ágeis e Soft Skills. Tenho conhecimento aprofundado em lógica de programação, front-end, back-end e introdução à ciência da computação. Atualmente, estou me especializando em Java e ferramentas do Spring, como JPA e Hibernate.
+Sou Desenvolvedor Full Stack, com experiência prática em mais de 30 projetos na Trybe, focados principalmente em JavaScript / TypeScript, React, Node.js, Express, e Programação Orientada a Objetos (POO). Também trabalhei em equipes utilizando Metodologias Ágeis, o que aprimorou minhas habilidades de colaboração e comunicação. Tenho conhecimento aprofundado em lógica de programação, front-end, back-end e introdução à ciência da computação. Atualmente, estou me especializando em Java e ferramentas do Spring, como JPA e Hibernate.
 
-Minha paixão por games e tecnologia me levou a buscar aprimoramento profissional através de diversos cursos técnicos. Atuei como empreendedor de uma Lan House com Assistência Técnica, desenvolvendo habilidades em atendimento ao cliente, gestão de caixa e negociação com fornecedores. Trabalhei com automação comercial, desenvolvendo treinamentos de software e suporte técnico. Também fui voluntário ensinando informática básica para mais de 1.000 alunos, com uma taxa de aprovação de 99,6%.
+Minha trajetória profissional é marcada por uma diversidade de experiências na área de tecnologia. Como empreendedor de uma Lan House, adquiri habilidades em atendimento ao cliente, gestão de caixa e negociação com fornecedores. Também atuei com automação comercial, desenvolvendo treinamentos de software e suporte técnico, e fui voluntário no ensino de informática básica para mais de 1.000 alunos, com uma taxa de aprovação de 99,6%.
+
+Minha paixão por games e tecnologia me levou a buscar aprimoramento profissional através de diversos cursos técnicos. Busco sempre melhorar a experiência dos clientes da melhor maneira possível, para isso, me empenho em aprender as melhores práticas e stacks. Gosto de empresas que proporcionem espaço para crescimento e que, ao mesmo tempo, prezem pelo melhor ambiente de trabalho.
 
 &nbsp;
 &nbsp;
